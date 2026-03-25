@@ -1,0 +1,11 @@
+maskenv/
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+runs/
+*.mp4
+*.avi
+*.mov
+.DS_Store
